@@ -71,7 +71,8 @@ func NewCmdBrowse(f *cmdutil.Factory, runF func(*BrowseOptions) error) *cobra.Co
 			#=> Open the script directory of the current repository
 
 			$ gh browse 217
-			#=> Open issue or pull request 217
+			#=> Open issue or pull re
+			
 
 			$ gh browse 77507cd94ccafcf568f8560cfecde965fcfa63
 			#=> Open commit page
